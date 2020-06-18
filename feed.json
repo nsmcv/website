@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nsmcv",
+    "description": "",
+    "home_page_url": "https://github.com/nsmcv/website",
+    "feed_url": "https://github.com/nsmcv/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nsmcvtcr"
+    },
+    "items": [
+        {
+            "id": "https://github.com/nsmcv/website/liturgy-timings.html",
+            "url": "https://github.com/nsmcv/website/liturgy-timings.html",
+            "title": "Liturgy Timings",
+            "summary": "Altar of Nithya Sahaya Matha Church ViyyurMass TimingsDaily Mass - 7.00 am Sunday Mass - 7.00 am Online Streaming - 7.00 am St Antony's Novena - Tuesday after daily mass St Joseph's Novena - Wednesday after daily mass Our Lady of Health - Friday after&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://github.com/nsmcv/website/media/posts/1/57161039_338014983482649_4287979929670254592_o.jpg\" alt=\"Altar of Nithya Sahaya Matha Church Viyyur\" width=\"1000\" height=\"500\">\n<figcaption >Altar of Nithya Sahaya Matha Church Viyyur</figcaption>\n</figure>\n<h2 class=\"align-center\">Mass Timings</h2>\n<p class=\"align-left msg msg--info\">Daily Mass - 7.00 am</p>\n<p class=\"align-left msg msg--info\">Sunday Mass - 7.00 am</p>\n<p class=\"align-left msg msg--info\">Online Streaming - 7.00 am</p>\n<h2 class=\"align-center\">Novenas</h2>\n<p class=\"msg--highlight  msg--info msg  msg--success\">St Antony's Novena - Tuesday after daily mass</p>\n<p class=\"msg msg--success\">St Joseph's Novena - Wednesday after daily mass</p>\n<p class=\"msg msg--success\">Our Lady of Health - Friday after daily mass</p>\n<p class=\"msg msg--success\">Our Lady of Perpetual Help - Saturday after daily mass</p>\n<h2 class=\"align-center\">Adoration</h2>\n<p class=\"msg msg--warning\">Half an hour adoration - Friday before daily mass</p>\n<h2 class=\"align-center\">Confession</h2>\n<p>Confession - Half an hour before daily mass, 4.00, 4.00 pm first Thursdays</p>\n<p> </p>",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+                   "Mass Timings"
+            ],
+            "date_published": "2020-06-18T13:44:26+05:30",
+            "date_modified": "2020-06-18T15:14:57+05:30"
+        }
+    ]
+}
